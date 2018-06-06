@@ -69,67 +69,67 @@ how to create a link reference
 Heading 1 is the largest heading (replace the # up to 6 total headings)
 
 ### HTML Containers
-#<html> </html> 
+#< html> </html> 
 begins and ends the entire code top and bottom of page, everything else is contained within (there can be only 1)
 
-# <head> </head>
+# < head> </head>
 wraps the header of the page (there can be only 1)
 
-# <body> </body>
+# < body> </body>
 wraps all the main content (there can be only 1)
 
-# <div> </div>
+# < div> </div>
 Contains content sections (can alternatively use <header> <nav> <footer> for cleaner organization)
 
-# <p> </p>
+# < p> </p>
 Paragraphs within <div>
 
 ### Common HTML TAGS
 
-# <strong> </strong>
+# < strong> </strong>
 bold
 
-# <em> </em>
+# < em> </em>
 emphasis
 
-# <img> </img>
+# < img> </img>
 images
 
-#<a href> </a href>
+#< a href> </a href>
 links
 
-#<li> </li>
+#< li> </li>
 lists items
 
-#<title> </title>
+#< title> </title>
 title
 
-#<br> </br>
+#< br> </br>
 line break (avoid if possible)
 
-# <table> </table>
+# < table> </table>
 Table
 
-# <!-- -->
+# < !-- -->
 (comments)
 
 #See less common tags @ http://www.w3schools.com/tags/
 
 ###Common UI (user interface) form elements:
 
-# <form> </form>
+# < form> </form>
 creates a form section in HTML
 
-# <input> </input>
+# < input> </input>
 Input Boxes (there are many, look up in W3schools)
 
-# <label> </label>
+# < label> </label>
 Lables for boxes
 
-# <button> </button>
+# < button> </button>
 Button
 
-# <textera> </textera>
+# < textera> </textera>
 Large textbox
 
 ### CSS Syntax
